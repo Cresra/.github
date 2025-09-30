@@ -112,7 +112,7 @@ Our team of **full-stack developers**, **cloud architects**, and **AI specialist
 ## **Core Capabilities**
 
 <details open>
-<summary><b><img src="https://cdn-icons-gif.flaticon.com/17122/17122545.gif" width="36"> Custom Software Development</b></summary>
+<summary><b>Custom Software Development</b></summary>
 
 Enterprise‑grade systems designed for security, performance, and extensibility.
 
@@ -122,13 +122,13 @@ Enterprise‑grade systems designed for security, performance, and extensibility
 </details>
 
 <details open>
-<summary><b><img src="https://cdn-icons-gif.flaticon.com/14447/14447787.gif" width="36"> Web & Mobile Applications</b></summary>
+<summary><b>Web & Mobile Applications</b></summary>
 
 Responsive, high-performance experiences built with React.js, Next.js, Flutter, React Native, Swift, and Kotlin.
 </details>
 
 <details open>
-<summary><b><img src="https://cdn-icons-gif.flaticon.com/10971/10971749.gif" width="36"> AI & Machine Learning</b></summary>
+<summary><b>AI & Machine Learning</b></summary>
 
 Intelligent solutions including computer vision, natural language processing, and recommendation engines powered by TensorFlow, PyTorch, and OpenAI's APIs.
 
@@ -138,13 +138,12 @@ Intelligent solutions including computer vision, natural language processing, an
 </details>
 
 <details open>
-<summary><b><img src="https://cdn-icons-gif.flaticon.com/15713/15713079.gif" width="36"> Cloud Infrastructure & DevOps</b></summary>
+<summary><b>Cloud Infrastructure & DevOps</b></summary>
 
 Automated CI/CD pipelines, Kubernetes orchestration, and secure deployments on AWS, Google Cloud, and Azure.
 </details>
 
-<details open>
-<summary><b><img src="https://cdn-icons-gif.flaticon.com/9872/9872469.gif" width="36"> Data Engineering & BI</b></summary>
+<details open>Data Engineering & BI</b></summary>
 
 End-to-end data pipelines, ETL workflows, and analytics dashboards for informed decision-making.
 
@@ -153,8 +152,7 @@ End-to-end data pipelines, ETL workflows, and analytics dashboards for informed 
 - Data Pipelines
 </details>
 
-<details open>
-<summary><b><img src="https://cdn-icons-gif.flaticon.com/16866/16866018.gif" width="36"> Blockchain Development</b></summary>
+<details open>Blockchain Development</b></summary>
 
 Smart contracts and decentralized applications for enhanced trust and transparency.
 
@@ -208,7 +206,7 @@ Smart contracts and decentralized applications for enhanced trust and transparen
 </div>
 
 ---
-## <img src="https://cdn-icons-gif.flaticon.com/17428/17428676.gif" width="36"/> **Get Started Today**
+## **Get Started Today**
 
 <div align="center">
 
@@ -218,7 +216,7 @@ Smart contracts and decentralized applications for enhanced trust and transparen
 [![Contact Us](https://img.shields.io/badge/Start_Your_Project-4d1b4d?style=for-the-badge&logo=rocket&logoColor=white)](https://cresra.com/contact)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-019062?style=for-the-badge&logo=briefcase&logoColor=white)](https://cresra.com/portfolio)
 
-### <img src="https://cdn-icons-gif.flaticon.com/12322/12322090.gif" width="36"/> **Ready to transform your vision into reality?**
+### **Ready to transform your vision into reality?**
 *Let's discuss your next breakthrough project.*
 
 ---
