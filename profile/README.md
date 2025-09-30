@@ -175,7 +175,7 @@ Smart contracts and decentralized applications for enhanced trust and transparen
 <br><small>AWS, Kubernetes & Data Engineering</small>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-gif.flaticon.com/18863/18863575.gif" width="64">
+<img src="https://cdn-icons-gif.flaticon.com/17907/17907901.gif" width="64">
 <br><b>Agile Methodologies</b>
 <br><small>Rapid delivery & continuous improvement</small>
 </td>
